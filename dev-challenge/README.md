@@ -1,4 +1,4 @@
-<h1 align="center">Traily Dev Challenge</h1>
+<h1 align="center">Dev Challenge</h1>
 
 <p>This is a 30 minutes developer challenge so we can verify that you have the required skills to work as a frontend developer for Traily. You are going to create an input field that will suggest locations as the user starts typing. Below you will find links to a Figma Template, an explanation of BEM, and the Transport API. You have to create the application according to these resources. Here we have created a template serving as a fundament to help you create the application. During this challenge, your <b>Vue.js</b>, <b>JavaScript</b> & <b>CSS</b> skills will be tested.</p>
 
