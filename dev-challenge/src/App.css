@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+}
+li {
+    text-align: left;
+    padding-bottom: 15px;
+} 
+ul{
+    text-align: center;
+}
+a {
+    cursor: pointer;
+}
+a:hover {
+    color: #19AC63;
+}
+
+input {
+    width: 327px;
+    height: 48px;
+    margin-top: 120px;
+    border-radius: 4px;
+    border: #999999 1px solid;
+}
+input:focus {
+    border: #19AC63 1px solid;
+    outline: none;
+}
+* {
+    font-family: TheSans Swisscom;
+    list-style: none;
+}
+#vonButton {
+    position: absolute;
+    width: 328px;
+    height: 48px;
+    margin-top: 123px;
+    margin-left: -320px;
+    background-color: transparent;
+    text-align: left;
+    border: none;
+    transition: all ease 400ms;
+}
+#vonButton:hover {
+    cursor: text;
+}
+.MyClass {
+    color: #19AC63;
+    margin-top: 97px !important;
+    transition: all ease 400ms;
+}
+.von {
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+}
